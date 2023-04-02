@@ -1,1 +1,1 @@
-# Simple-Weather-App
+# Simple-Weather-App using waether api
